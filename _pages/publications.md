@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-These are some key publications in different areas. For a full list, please see my profile on [Google Scholar](https://scholar.google.co.uk/citations?user=xfAPw6YAAAAJ).
+These are some of my key publications. For a full list, please see my profile on [Google Scholar](https://scholar.google.co.uk/citations?user=xfAPw6YAAAAJ).
 
 ## Methods
 [Bayesian model reduction and empirical Bayes for group (DCM) studies](http://dx.doi.org/10.1016/j.neuroimage.2015.11.015)  
 Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Ziegler, G. and Zeidman, P.  
-Neuroimage, 128, pp.413-431. 2016.
+NeuroImage, 128, pp.413-431. 2016.
 
 [Bayesian population receptive field modelling](https://doi.org/10.1016/j.neuroimage.2017.09.008)  
 Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W., 2018.  
