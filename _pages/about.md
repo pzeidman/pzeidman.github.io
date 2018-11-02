@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Fellow at the [Wellcome Centre for Human Neuroimaging at UCL](http://www.fil.ion.ucl.ac.uk/). I develop methods for investigating the function and circuitry of the human brain, and I use these to investigate vision, memory and imagination.
+I am a Senior Research Fellow at the [Wellcome Centre for Human Neuroimaging at UCL](http://www.fil.ion.ucl.ac.uk/). I develop methods for investigating the function and circuitry of the human brain, and I use these methods to investigate vision, memory and imagination.
 
 ## Methods development
 I am a developer of [SPM](https://www.fil.ion.ucl.ac.uk/spm/), the open source software package for analysing neuroimaging data. In particular, I work on Dynamic Causal Modelling (DCM) for fMRI, a technology which lets people investigate brain circuitry. I am situated in the Methods Group, headed by Professor Karl Friston.
