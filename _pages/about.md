@@ -15,7 +15,3 @@ I am a developer of SPM, the open source software package for analysing neuroima
 
 ## Neurobiology
 My neurobiological interest is how the brain constructs a model of the world based on what we see. In particular, I am interested in the functional anatomy of the hippocampus - a brain structure critical for memory and imagination.
-
-## Team
-* Amirhossein Jafarian - Post-doctoral research fellow
-* Matilda Morris-Jones - MSc student
