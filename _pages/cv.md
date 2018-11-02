@@ -11,36 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD supervised by Professor Eleanor Maguire, University College London, 2010-2014
+* MSc in Neuroscience, University College London, 2010
+* MSc in Natural Computation, University of Birmingham, 2007
+* BSc in Artificial Intelligence & Computer Science, University of Birmingham, 2003-2006
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Employment
+==========
+* 2018-date: Senior research fellow
+  * University College London
+  * Supervisors: Prof. Cathy Price, Prof. Karl Friston
+  
+* 2014-2018: Research fellow
+  * University College London
+  * Supervisors: Dr. Guillaume Flandin, Prof. Karl Friston
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2007-2009: Analyst programmer
+  * [Tessella](http://www.tessella.com/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Neuroimaging
+  * Experimental design
+  * Functional MRI analysis (SPM)
+  * Dynamic Causal Modelling
+* Cognitive neuroscience
+  * Hippocampus segmentation and anatomy
+  * Stimulus creation (Cogent, PsychoPy, Blender)
+* Computer science / software engineering / AI / statistics
+  * Bayesian modelling and inference
+  * Machine learning
+  * Univariate & multivariate regression modelling
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [/publications
   
 Talks
 ======
