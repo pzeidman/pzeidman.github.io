@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Fellow at the Wellcome Centre for Human Neuroimaging at UCL. I develop methods for investigating the function of and circuitry of the human brain, and I apply these methods to investigate the common mechanisms underlying vision, memory and imagination.
+I am a Senior Research Fellow at the Wellcome Centre for Human Neuroimaging at UCL. I develop methods for investigating the function and circuitry of the human brain, and I apply these methods to investigate the common mechanisms underlying vision, memory and imagination.
 
 Methods development
 ==================
