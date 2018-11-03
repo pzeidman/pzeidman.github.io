@@ -8,18 +8,18 @@ author_profile: true
 These are some of my key publications. For a full list, please see my profile on [Google Scholar](https://scholar.google.co.uk/citations?user=xfAPw6YAAAAJ).
 
 ## Methods
+[Bayesian population receptive field modelling](https://doi.org/10.1016/j.neuroimage.2017.09.008)  
+Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W.
+NeuroImage, 180, pp.173-187. 2018.
+
 [Bayesian model reduction and empirical Bayes for group (DCM) studies](http://dx.doi.org/10.1016/j.neuroimage.2015.11.015)  
 Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Ziegler, G. and Zeidman, P.  
 NeuroImage, 128, pp.413-431. 2016.
 
-[Bayesian population receptive field modelling](https://doi.org/10.1016/j.neuroimage.2017.09.008)  
-Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W., 2018.  
-NeuroImage, 180, pp.173-187.
-
 ## Cognitive neuroscience
 [Anterior hippocampus: the anatomy of perception, imagination and episodic memory](https://doi.org/10.1038/nrn.2015.24)  
-Zeidman, P. and Maguire, E.A., 2016.  
-Nature Reviews Neuroscience, 17(3), p.173.
+Zeidman, P. and Maguire, E.A.
+Nature Reviews Neuroscience, 17(3), p.173. 2016.
 
 [Investigating the functions of subregions within anterior hippocampus](http://dx.doi.org/10.1016/j.cortex.2015.09.002)  
 Zeidman, P., Lutti, A. and Maguire, E.A., 2015.  
