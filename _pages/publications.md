@@ -9,7 +9,7 @@ These are some of my key publications. For a full list, please see my profile on
 
 ## Methods
 [Bayesian population receptive field modelling](https://doi.org/10.1016/j.neuroimage.2017.09.008)  
-Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W.
+Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W.  
 NeuroImage, 180, pp.173-187. 2018.
 
 [Bayesian model reduction and empirical Bayes for group (DCM) studies](http://dx.doi.org/10.1016/j.neuroimage.2015.11.015)  
