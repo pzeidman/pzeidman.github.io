@@ -12,7 +12,7 @@ These are some of my key publications. For a full list, please see my profile on
 Zeidman, P., Jafarian, A., Corbin, N., Seghier, M.L., Razi, A., Price, C.J., Friston, K.J.  
 NeuroImage, 200, pp. 174-190. 2019.
 
-[A guide to group effective connectivity analysis, part 2: Second level analysis with PEB](https://doi.org/10.1016/j.neuroimage.2019.06.031)  
+[A guide to group effective connectivity analysis, part 2: Second level analysis with PEB](https://doi.org/10.1016/j.neuroimage.2019.06.032)  
 Zeidman, P., Jafarian, A., Seghier, M.L., Litvak, V., Cagnan, H., Price, C.J., Friston, K.J.  
 NeuroImage, 200, pp. 12-25. 2019.
 
