@@ -7,7 +7,7 @@ author_profile: true
 
 These are some of my key publications. For a full list, please see my profile on [Google Scholar](https://scholar.google.co.uk/citations?user=xfAPw6YAAAAJ).
 
-## Methods
+## Neuroimaging methods
 [A guide to group effective connectivity analysis, part 1: First level analysis with DCM for fMRI](https://doi.org/10.1016/j.neuroimage.2019.06.031)  
 Zeidman, P., Jafarian, A., Corbin, N., Seghier, M.L., Razi, A., Price, C.J., Friston, K.J.  
 NeuroImage, 200, pp. 174-190. 2019.
@@ -25,6 +25,10 @@ Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Z
 NeuroImage, 128, pp.413-431. 2016.
 
 ## Cognitive neuroscience
+[Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1101/2020.07.30.228361)
+Silson, E.H., Zeidman, P., Knapen, T., Baker, C.I.
+bioRxiv doi: 10.1101/2020.07.30.228361
+
 [Anterior hippocampus: the anatomy of perception, imagination and episodic memory](https://doi.org/10.1038/nrn.2015.24)  
 Zeidman, P. and Maguire, E.A.
 Nature Reviews Neuroscience, 17(3), p.173. 2016.
