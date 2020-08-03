@@ -25,9 +25,9 @@ Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Z
 NeuroImage, 128, pp.413-431. 2016.
 
 ## Cognitive neuroscience
-[Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1101/2020.07.30.228361)
-Silson, E.H., Zeidman, P., Knapen, T., Baker, C.I.
-bioRxiv doi: 10.1101/2020.07.30.228361
+[Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1101/2020.07.30.228361)  
+Silson, E.H., Zeidman, P., Knapen, T., Baker, C.I.   
+bioRxiv, 2020. doi: 10.1101/2020.07.30.228361
 
 [Anterior hippocampus: the anatomy of perception, imagination and episodic memory](https://doi.org/10.1038/nrn.2015.24)  
 Zeidman, P. and Maguire, E.A.
