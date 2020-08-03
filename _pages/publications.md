@@ -26,7 +26,7 @@ NeuroImage, 128, pp.413-431. 2016.
 
 ## Cognitive neuroscience
 [Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1101/2020.07.30.228361)  
-Silson, E.H., Zeidman, P., Knapen, T., Baker, C.I.   
+Silson, E.H.\*, Zeidman, P.\*, Knapen, T., Baker, C.I.   
 bioRxiv, 2020. doi: 10.1101/2020.07.30.228361
 
 [Anterior hippocampus: the anatomy of perception, imagination and episodic memory](https://doi.org/10.1038/nrn.2015.24)  
@@ -40,3 +40,5 @@ Cortex, 73, pp.240-256.
 [Constructing, perceiving, and maintaining scenes: hippocampal activity and connectivity](https://doi.org/10.1093/cercor/bhu266)  
 Zeidman, P., Mullally, S.L. and Maguire, E.A., 2014.  
 Cerebral Cortex, 25(10), pp.3836-3855.
+
+\* Equal contribution
