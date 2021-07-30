@@ -25,8 +25,12 @@ Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Z
 NeuroImage, 128, pp.413-431. 2016.
 
 ## Cognitive neuroscience
+[Ageing and the ipsilateral M1 BOLD response: a connectivity study](https://doi.org/10.1101/2021.07.29.454012)
+Tak, Y.W.,  Knights, E., Henson, R. and Zeidman, P.
+BioRXiv, 2021.
+
 [Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1523/JNEUROSCI.1990-20.2020)  
-Silson, E.H.\*, Zeidman, P.\*, Knapen, T., Baker, C.I.   
+Silson, E.H.\*, Zeidman, P.\*, Knapen, T., and Baker, C.I.   
 Journal of Neuroscience, 41(11), pp.2382-2392. 2021.
 
 [Anterior hippocampus: the anatomy of perception, imagination and episodic memory](https://doi.org/10.1038/nrn.2015.24)  
