@@ -27,7 +27,7 @@ NeuroImage, 128, pp.413-431. 2016.
 ## Cognitive neuroscience
 [Ageing and the ipsilateral M1 BOLD response: a connectivity study](https://doi.org/10.1101/2021.07.29.454012)  
 Tak, Y.W.,  Knights, E., Henson, R. and Zeidman, P.  
-bioRXiv, 2021.
+Brain Sciences, 11(9), pp.1130. 2021.
 
 [Representation of contralateral visual space in the human hippocampus](https://doi.org/10.1523/JNEUROSCI.1990-20.2020)  
 Silson, E.H.\*, Zeidman, P.\*, Knapen, T., and Baker, C.I.   
