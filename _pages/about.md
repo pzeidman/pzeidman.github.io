@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Chair of the Methods Group at the [Wellcome Centre for Human Neuroimaging at UCL](http://www.fil.ion.ucl.ac.uk/). In particular, I develop Dynamic Causal Modelling (DCM), a framework for investigating the function and circuitry of the human brain. I use this and other statistical methods to investigate how the brain changes due to ageing and neurological disorders.
+I lead the Neurovascular Modelling Group at the [Wellcome Centre for Human Neuroimaging at UCL](http://www.fil.ion.ucl.ac.uk/). We research how the brain and its blood supply change as we age. 
 
-## Methods development
-I am a developer of [SPM](https://www.fil.ion.ucl.ac.uk/spm/), the open source software package for analysing neuroimaging data. My focus is on Bayesian analysis methods, including DCM - a technology which lets people investigate brain circuitry.
+I am also Chair of the Methods Group. We develop statistical methods for analysing neuroimaging data, and make them available via the open source software package [SPM](https://www.fil.ion.ucl.ac.uk/spm/). My technical interests focus on Bayesian analysis methods, particularly Dynamic Causal Modelling (DCM), a framework for investigating the function and circuitry of the human brain.
 
-## Cognitive neuroscience
-My neurobiological interest is how the brain constructs a model of the world and how this changes as we age. In particular, I am interested in the functional anatomy of the hippocampus - a brain structure critical for memory and imagination, which declines early in the progression of Alzheimer's disease. See selected [Publications](/publications).
+See my selected [Publications](/publications) to read more.
 
 Contact: peter dot zeidman at ucl.ac.uk
