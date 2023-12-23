@@ -10,7 +10,7 @@ These are some of my key publications. For a full list, please see my profile on
 ## Neuroimaging methods
 [A primer on Variational Laplace (VL)](https://doi.org/10.1016/j.neuroimage.2023.120310)  
 Zeidman, P., Friston, K. and Parr, T.  
-NeuroImage, 279, pp.120310. 2023.
+NeuroImage, 279, pp. 120310. 2023.
 
 [A guide to group effective connectivity analysis, part 1: First level analysis with DCM for fMRI](https://doi.org/10.1016/j.neuroimage.2019.06.031)  
 Zeidman, P., Jafarian, A., Corbin, N., Seghier, M.L., Razi, A., Price, C.J., Friston, K.J.  
