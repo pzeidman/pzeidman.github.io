@@ -8,6 +8,10 @@ author_profile: true
 These are some of my key publications. For a full list, please see my profile on [Google Scholar](https://scholar.google.co.uk/citations?user=xfAPw6YAAAAJ).
 
 ## Neuroimaging methods
+[A primer on Variational Laplace (VL)](https://doi.org/10.1016/j.neuroimage.2023.120310)
+Zeidman, P., Friston, K. and Parr, T.
+NeuroImage, 279, pp.120310. 2023.
+
 [A guide to group effective connectivity analysis, part 1: First level analysis with DCM for fMRI](https://doi.org/10.1016/j.neuroimage.2019.06.031)  
 Zeidman, P., Jafarian, A., Corbin, N., Seghier, M.L., Razi, A., Price, C.J., Friston, K.J.  
 NeuroImage, 200, pp. 174-190. 2019.
@@ -15,10 +19,6 @@ NeuroImage, 200, pp. 174-190. 2019.
 [A guide to group effective connectivity analysis, part 2: Second level analysis with PEB](https://doi.org/10.1016/j.neuroimage.2019.06.032)  
 Zeidman, P., Jafarian, A., Seghier, M.L., Litvak, V., Cagnan, H., Price, C.J., Friston, K.J.  
 NeuroImage, 200, pp. 12-25. 2019.
-
-[Bayesian population receptive field modelling](https://doi.org/10.1016/j.neuroimage.2017.09.008)  
-Zeidman, P., Silson, E.H., Schwarzkopf, D.S., Baker, C.I. and Penny, W.  
-NeuroImage, 180, pp.173-187. 2018.
 
 [Bayesian model reduction and empirical Bayes for group (DCM) studies](http://dx.doi.org/10.1016/j.neuroimage.2015.11.015)  
 Friston, K.J., Litvak, V., Oswal, A., Razi, A., Stephan, K.E., van Wijk, B.C., Ziegler, G. and Zeidman, P.  
